@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Felipe",
+      "empresa": "Empresa de Felipe",
+      "email": "felipe@felipe.com",
+      "telefono": "196165165",
+      "notas": "notas de felipe",
+      "id": 2
+    },
+    {
+      "nombre": "Florencia",
+      "empresa": "Florencia diseños",
+      "email": "florencia@florencia.com",
+      "telefono": "954621651",
+      "notas": "notas de florencia",
+      "id": 3
+    },
+    {
+      "nombre": "Federico",
+      "empresa": "Sistemas Federico",
+      "email": "federico@federico.com",
+      "telefono": "9465196416541",
+      "notas": "editando nota",
+      "id": 4
+    },
+    {
+      "nombre": "Dana",
+      "empresa": "Dana Gym",
+      "email": "dana@dana.com",
+      "telefono": "654156165",
+      "notas": "notas de dana",
+      "id": 5
+    }
+  ]
+}
